@@ -1,0 +1,4 @@
+.container{width: 100%;height: auto}
+.search{width: 100%;height: auto;border-bottom: 1rpx solid #ccc;position: relative;}
+.search input{width: auto;padding: 10rpx;border:1rpx solid #ccc;border-radius: 10rpx;margin: 10rpx auto}
+.search image{width: 60rpx;height: 60rpx;position: absolute;right: 60rpx}

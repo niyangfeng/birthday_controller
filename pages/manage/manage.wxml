@@ -1,0 +1,14 @@
+<view class='container'>
+  <view class='search'>
+    <input placeholder='search friend'></input>
+    <image></image>
+  </view>
+  <view class='birthdayList'>
+    <view class='birthday'>
+      <image class='head' src=''></image>
+      <text class='name'>隔壁老王</text>
+      <text class='birthdate'>9-30</text>
+      <text class='restday'>10</text>
+    </view>
+  </view>
+</view>
