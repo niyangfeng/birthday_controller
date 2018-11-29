@@ -1,26 +1,26 @@
 {
   "pages": [
-    "pages/manage/manage",
-    "pages/mine/mine",
+    "pages/birthday/birthday",
+    "pages/note/note",
     "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarTitleText": "生日管家",
+    "navigationBarTitleText": "生日记事本",
     "navigationBarBackgroundColor": "#76EEC6",
     "navigationBarTextStyle": "#fff"
   },
   "tabBar":{
     "list":[{
-      "pagePath":"pages/manage/manage",
-      "text":"管家",
-      "iconPath":"img/manage.png",
-      "selectedIconPath":"img/manage-selected.png"
+      "pagePath":"pages/birthday/birthday",
+      "text":"生日",
+      "iconPath":"img/birthday-1.png",
+      "selectedIconPath":"img/birthday-2.png"
     },{
-      "pagePath":"pages/mine/mine",
-      "text":"我的",
-      "iconPath": "img/mine.png",
-      "selectedIconPath":"img/mine-selected.png"
+      "pagePath":"pages/note/note",
+      "text":"记事",
+      "iconPath": "img/note-1.png",
+      "selectedIconPath":"img/note-2.png"
     }]
   }
 }

@@ -1,0 +1,8 @@
+<view class='container'>
+  <view class='search'>
+    <input placeholder='search note'></input>
+  </view>
+  <view class='noteList'> 
+  </view>
+  <view class='add'>+</view>
+</view>
